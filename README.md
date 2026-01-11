@@ -1,5 +1,8 @@
 <div align="center">
-  <h1>Hi there, I'm Tuấn Anh 👋</h1>
+  <h1>
+    Hi there, I'm Tuấn Anh 
+    <img src="./assets/gifs/Hi.gif" width="35"/>
+  </h1>
   <p><em>Software Engineer with a passion for building scalable web applications and analyzing data.</em></p>
 </div>
 
