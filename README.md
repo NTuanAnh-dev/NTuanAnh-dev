@@ -1,7 +1,7 @@
-## Hi there 👋
-
-# 💫 About Me:
-🔭 I’m currently working on: A high-concurrency Fintech Microservices system employing Java Spring Boot for core banking and NestJS for real-time payment processing, orchestrated with Kafka and Docker.<br>🌱 I’m currently learning: Advanced System Design (Distributed Transactions, Saga Pattern), Data Engineering pipelines (Spark, Airflow), and Cloud infrastructure (AWS/GCP)<br>💬 Ask me about: Java ecosystem (Spring Boot, Hibernate), Modern JavaScript (Next.js, NestJS), and Database optimization (PostgreSQL, Redis).<br>⚡ Fun fact: I can speak 3 languages: Vietnamese, English, and Java.<br>
+<div align="center">
+  <h1>Hi there, I'm Tuấn Anh 👋</h1>
+  <p><em>Software Engineer with a passion for building scalable web applications and analyzing data.</em></p>
+</div>
 
 
 ## 🌐 Socials:
