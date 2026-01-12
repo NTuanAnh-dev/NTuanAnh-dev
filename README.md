@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/assets/gifs/Hacker-Terminal.gif" width="100%" />
+  <img src="/assets/gifs/Hacker-Terminal.gif" width="40%" />
   <h1>
     Hi there, I'm Tuấn Anh 
     <img src="/assets/gifs/Hi.gif" width="35"/>
