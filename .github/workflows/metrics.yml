@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  # Chạy tự động vào 0h00 mỗi ngày
+  schedule: [{cron: "0 0 * * *"}]
+  # Cho phép chạy thủ công từ tab Actions
+  workflow_dispatch:
+  # Chạy mỗi khi push vào nhánh master/main (tùy chọn)
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # Token bạn đã tạo ở bước 2
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Cấu hình hiển thị (bạn có thể chỉnh sửa phần này)
+          user: <Tuananh2809>
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Ho_Chi_Minh
