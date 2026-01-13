@@ -28,3 +28,9 @@ jobs:
           base: header, activity, community, repositories, metadata
           
           config_timezone: Asia/Ho_Chi_Minh
+
+          filename: access/svg/github-metrics.svg 
+          
+          # Lưu ý: Nếu bạn muốn lưu vào nhánh main hiện tại thì thêm dòng này cho chắc:
+          committer_branch: main 
+          committer_message: "Update metrics display"
