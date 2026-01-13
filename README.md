@@ -6,7 +6,7 @@
   <img src="/assets/gifs/Hacker-Terminal.gif" width="30%" />
   <p><em>Software Engineer with a passion for building scalable web applications and analyzing data.</em></p>
 </div>
-
+![Metrics](https://github.com/Tuananh2809/Tuananh2809/blob/main/access/svg/github-metrics.svg?raw=true)
 ---
 
 <h2 align="left">🛠 Tech Stack</h2>
